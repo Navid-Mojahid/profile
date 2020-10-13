@@ -2,6 +2,16 @@ h1 {
     color: blue;
     font-size: 48px;
 }
+.contact{
+    margin-left: 230;
+    padding-top: 2
+}
+.dp{
+    float: left
+}
+.content{
+    margin-top: 200;
+}
 .caption {
     margin-left: 300px;
 }
