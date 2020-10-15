@@ -12,12 +12,12 @@ h1 {
 .content{
     margin-top: 200;
 }
+.full{
+    margine-left: 100;
+}
 .caption {
     margin-left: 400px;
 }
 .robo {
     margin-left: 300;
-}
-.full{
-    margine-left: 100;
 }
