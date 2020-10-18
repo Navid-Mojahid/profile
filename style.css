@@ -16,6 +16,10 @@ h1{
 .whole{
     margin-left: 90px;
     margin-right: 90px;
+    background-color: aqua;
+}
+.whole2{
+    background-color: pink;
 }
 .caption{
     background-color: antiquewhite;
