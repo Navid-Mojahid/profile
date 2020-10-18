@@ -1,6 +1,7 @@
 h1{
     color: blue;
     font-size: 48px;
+    background-color: antiquewhite;
 }
 .contact{
     margin-left: 230;
@@ -16,7 +17,9 @@ h1{
     margin-left: 90px;
 }
 .caption{
-    margin-left: 400px;
+    background-color: antiquewhite;
+    padding-left: 400px;
+    font-size: 16px;
 }
 .robo{
     margin-left: 300;
